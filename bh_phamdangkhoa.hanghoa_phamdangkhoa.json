@@ -1,0 +1,120 @@
+[{
+  "_id": 1,
+  "name": "Điện thoại Samsung Galaxy Z Flip8 12GB/512GB",
+  "image": "images/samsung-galaxy-z-flip8-den-1-639204001680166377.jpg",
+  "brand": "Samsung",
+  "price": 29590000,
+  "ngaycapnhat": {
+    "$date": "2026-10-30T11:30:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "name": "Điện thoại OPPO Reno15 5G 8GB/256GB",
+  "image": "images/oppo-reno15-trang-1-639034669266991057.jpg",
+  "brand": "OPPO",
+  "price": 13180000,
+  "ngaycapnhat": {
+    "$date": "2026-10-29T08:30:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "name": "Laptop Dell Pro 14 Essential PV14250 - PV14250-120U-16512W-BL (Core 5 120U, 16GB, 512GB, Full HD+, OfficeH24+365, Win11)",
+  "image": "images/dell-pro-14-essential-pv14250-core-5-120u-pv14250-120u-16512w-bl-2-639046714934249287.jpg",
+  "brand": "Dell",
+  "price": 27990000,
+  "ngaycapnhat": {
+    "$date": "2026-10-28T09:36:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "name": "Điện thoại vivo Y05 4GB/64GB",
+  "image": "images/vivo-y05-den-1-639134898548342215.jpg",
+  "brand": "Vivo",
+  "price": 4640000,
+  "ngaycapnhat": {
+    "$date": "2026-10-27T10:27:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "name": "Điện thoại iPhone 17 Pro Max 1TB",
+  "image": "images/iphone-17-pro-max-cam-1-639174801283744307.jpg",
+  "brand": "Apple",
+  "price": 47990000,
+  "ngaycapnhat": {
+    "$date": "2026-10-30T10:32:00.000Z"
+  }
+},
+{
+  "_id": 6,
+  "name": "Điện thoại Xiaomi 17T 5G 12GB/512GB",
+  "image": "images/xiaomi-17t-xanh-thumb.jpg",
+  "brand": "Xiaomi",
+  "price": 16090000,
+  "ngaycapnhat": {
+    "$date": "2026-10-30T12:30:22.000Z"
+  }
+},
+{
+  "_id": 7,
+  "name": "Máy tính bảng Samsung Galaxy Tab S10 Lite 5G 6GB/128GB",
+  "image": "images/d792b6305ef0127efc3487b2b0d9e493.jpg",
+  "brand": "Samsung",
+  "price": 10490000,
+  "ngaycapnhat": {
+    "$date": "2026-11-03T07:04:26.373Z"
+  }
+},
+{
+  "_id": 9,
+  "name": "Samsung Galaxy Watch8 LTE 40mm dây silicone",
+  "image": "images/3a63348c9b6bab340280909ed557f12d.jpg",
+  "brand": "Samsung",
+  "price": 6890000,
+  "ngaycapnhat": {
+    "$date": "2026-11-03T07:06:07.179Z"
+  }
+},
+{
+  "_id": 10,
+  "name": "Apple Watch Series 11 GPS 42mm viền nhôm dây thể thao",
+  "image": "images/d496beb74eca15d74b12aa725533c4e8.jpg",
+  "brand": "Apple",
+  "price": 10490000,
+  "ngaycapnhat": {
+    "$date": "2026-11-03T07:07:07.024Z"
+  }
+},
+{
+  "_id": 11,
+  "name": "AirPods 5",
+  "image": "images/3195625dc38b21ea215a6d8a781f9f8c.jpg",
+  "brand": "Apple",
+  "price": 3790000,
+  "ngaycapnhat": {
+    "$date": "2026-11-03T07:07:49.930Z"
+  }
+},
+{
+  "_id": 12,
+  "name": "Máy tính bảng iPad Pro M5 11 inch WiFi 256GB",
+  "image": "images/2cf932121d25be0919482c8ceba8c214.jpg",
+  "brand": "Apple",
+  "price": 33990000,
+  "ngaycapnhat": {
+    "$date": "2026-11-03T07:08:55.903Z"
+  }
+},
+{
+  "_id": 13,
+  "name": "Tai nghe Bluetooth True Wireless Samsung Galaxy Buds3 FE R420N",
+  "image": "images/e6a3d83bf75a4f7c344313dd2a576a30.jpg",
+  "brand": "Samsung",
+  "price": 3000000,
+  "ngaycapnhat": {
+    "$date": "2026-11-03T08:50:13.347Z"
+  }
+}]

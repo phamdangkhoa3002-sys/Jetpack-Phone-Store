@@ -1,0 +1,66 @@
+[{
+  "_id": 1,
+  "_idhoadon": 1,
+  "_idhanghoa": 1,
+  "soluong": 2
+},
+{
+  "_id": 2,
+  "_idhoadon": 1,
+  "_idhanghoa": 2,
+  "soluong": 1
+},
+{
+  "_id": 3,
+  "_idhoadon": 1,
+  "_idhanghoa": 3,
+  "soluong": 1
+},
+{
+  "_id": 4,
+  "_idhoadon": 2,
+  "_idhanghoa": 4,
+  "soluong": 2
+},
+{
+  "_id": 5,
+  "_idhoadon": 2,
+  "_idhanghoa": 2,
+  "soluong": 1
+},
+{
+  "_id": 6,
+  "_idhoadon": 3,
+  "_idhanghoa": 3,
+  "soluong": 1
+},
+{
+  "_id": 7,
+  "_idhoadon": 3,
+  "_idhanghoa": 1,
+  "soluong": 1
+},
+{
+  "_id": 8,
+  "_idhoadon": 4,
+  "_idhanghoa": 5,
+  "soluong": 1
+},
+{
+  "_id": 9,
+  "_idhoadon": 4,
+  "_idhanghoa": 2,
+  "soluong": 2
+},
+{
+  "_id": 10,
+  "_idhoadon": 5,
+  "_idhanghoa": 1,
+  "soluong": 1
+},
+{
+  "_id": 11,
+  "_idhoadon": 5,
+  "_idhanghoa": 5,
+  "soluong": 1
+}]

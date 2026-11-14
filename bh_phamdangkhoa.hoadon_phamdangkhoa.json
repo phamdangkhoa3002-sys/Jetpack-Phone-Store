@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "tenkh": "Pham Dang Khoa",
+  "ngayhd": {
+    "$date": "2026-10-30T11:30:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "tenkh": "Nguyen Hoang Khang",
+  "ngayhd": {
+    "$date": "2026-10-27T09:30:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "tenkh": "Huynh Anh Lu",
+  "ngayhd": {
+    "$date": "2026-10-28T10:15:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "tenkh": "Doan Gia Hung",
+  "ngayhd": {
+    "$date": "2026-10-29T14:20:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "tenkh": "Tran Minh Kim",
+  "ngayhd": {
+    "$date": "2026-10-30T15:00:00.000Z"
+  }
+}]
